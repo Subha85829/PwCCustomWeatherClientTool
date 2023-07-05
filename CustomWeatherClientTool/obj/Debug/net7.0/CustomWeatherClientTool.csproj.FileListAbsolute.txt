@@ -1,0 +1,15 @@
+C:\Sub's Personal\Programming\Console Application\CustomWeatherClientTool\CustomWeatherClientTool\bin\Debug\net7.0\CustomWeatherClientTool.exe
+C:\Sub's Personal\Programming\Console Application\CustomWeatherClientTool\CustomWeatherClientTool\bin\Debug\net7.0\CustomWeatherClientTool.deps.json
+C:\Sub's Personal\Programming\Console Application\CustomWeatherClientTool\CustomWeatherClientTool\bin\Debug\net7.0\CustomWeatherClientTool.runtimeconfig.json
+C:\Sub's Personal\Programming\Console Application\CustomWeatherClientTool\CustomWeatherClientTool\bin\Debug\net7.0\CustomWeatherClientTool.dll
+C:\Sub's Personal\Programming\Console Application\CustomWeatherClientTool\CustomWeatherClientTool\bin\Debug\net7.0\CustomWeatherClientTool.pdb
+C:\Sub's Personal\Programming\Console Application\CustomWeatherClientTool\CustomWeatherClientTool\obj\Debug\net7.0\CustomWeatherClientTool.csproj.AssemblyReference.cache
+C:\Sub's Personal\Programming\Console Application\CustomWeatherClientTool\CustomWeatherClientTool\obj\Debug\net7.0\CustomWeatherClientTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sub's Personal\Programming\Console Application\CustomWeatherClientTool\CustomWeatherClientTool\obj\Debug\net7.0\CustomWeatherClientTool.AssemblyInfoInputs.cache
+C:\Sub's Personal\Programming\Console Application\CustomWeatherClientTool\CustomWeatherClientTool\obj\Debug\net7.0\CustomWeatherClientTool.AssemblyInfo.cs
+C:\Sub's Personal\Programming\Console Application\CustomWeatherClientTool\CustomWeatherClientTool\obj\Debug\net7.0\CustomWeatherClientTool.csproj.CoreCompileInputs.cache
+C:\Sub's Personal\Programming\Console Application\CustomWeatherClientTool\CustomWeatherClientTool\obj\Debug\net7.0\CustomWeatherClientTool.dll
+C:\Sub's Personal\Programming\Console Application\CustomWeatherClientTool\CustomWeatherClientTool\obj\Debug\net7.0\refint\CustomWeatherClientTool.dll
+C:\Sub's Personal\Programming\Console Application\CustomWeatherClientTool\CustomWeatherClientTool\obj\Debug\net7.0\CustomWeatherClientTool.pdb
+C:\Sub's Personal\Programming\Console Application\CustomWeatherClientTool\CustomWeatherClientTool\obj\Debug\net7.0\CustomWeatherClientTool.genruntimeconfig.cache
+C:\Sub's Personal\Programming\Console Application\CustomWeatherClientTool\CustomWeatherClientTool\obj\Debug\net7.0\ref\CustomWeatherClientTool.dll
