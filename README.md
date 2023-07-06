@@ -6,7 +6,7 @@ How you can use:
 3. Double click the CustomWeatherClientTool.exe file.
 4. Enter the Name of the City you want to find weather details.
 
-Note : This will only work for cities which are included in the city_name JSON File.
+Note : This will only work for cities which are included in the cities JSON File.
 
 Steps to build the project and run the application: 
 1. Pull the source code in your local machine.
